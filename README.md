@@ -4,7 +4,7 @@ A repo to store the storyline that will be used for the MMO concept.
 
 ***
 
-## Repository Resources
+## Repo Resources
 
 * [BrickMMO](https://www.brickmmo.com/)
 
