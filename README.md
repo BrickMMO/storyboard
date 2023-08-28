@@ -1,6 +1,6 @@
 # BrickMMO Storyboard
 
-A repo to store the storyline that will be used for the MMO concept. 
+A repo to store the storyline details that will be integrated into a BrickMMO escape roomstyle video game. 
 
 > This repo is available to view at  
 > [https://tasks.brickmmo.com](https://tasks.brickmmo.com)
