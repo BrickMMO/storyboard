@@ -3,7 +3,7 @@
 A repo to store the storyline details that will be integrated into a BrickMMO escape roomstyle video game. 
 
 > This repo is available to view at  
-> [https://tasks.brickmmo.com](https://tasks.brickmmo.com)
+> [https://brickmmo.github.io/storyboard/](https://brickmmo.github.io/storyboard/)
 
 ---
 
