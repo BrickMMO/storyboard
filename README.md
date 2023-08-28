@@ -1,4 +1,4 @@
-# BrickMMO Storyboard
+# Storyboard
 
 A repo to store the storyline details that will be integrated into a BrickMMO escape roomstyle video game. 
 
